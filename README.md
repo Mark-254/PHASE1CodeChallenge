@@ -1,4 +1,4 @@
-# PHASE1CodeChallenge
+# PHASE1CodeChallenge2
 CodeChallenge INVOLVING functionalies solving the ARRAYS ,PRIMENUMBERS AND CASE CHARACTER CHALLENGES.
 
 ## DESCRIPTION
